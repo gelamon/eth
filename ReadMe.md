@@ -56,9 +56,8 @@ Set the parameters for the balance, mint, and burn functions in the "Deployed Co
 
 ## Authors
 
-Contributors names and contact info
-
 NTCIAN Angela Morta
+<br>
 [Discord: @angelaaa#0676](https://discordapp.com/users/angelaaa#0676)
 
 ## License
